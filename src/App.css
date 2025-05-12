@@ -1,0 +1,33 @@
+.container {
+    max-width: 600px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+form input {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-top: 10px;
+    display: flex;
+
+    align-items: center;
+
+}
